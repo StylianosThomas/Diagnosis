@@ -18,5 +18,6 @@ For the purposes of this project I used pipenv.
 
 ## Model Info
 The dataset for this project was collected from a study of university of Columbia.
-The study was performed at New York Presbyterian Hospital during 2004.
- For a more extensive project based on the same dataset you can have a look [here](https://github.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-sudhanshu)
+The study was performed at New York Presbyterian Hospital during 2004.  
+
+For a more extensive project based on the same dataset you can have a look [here](https://github.com/Lovely-Professional-University-CSE/int247-machine-learning-project-2020-kem031-sudhanshu)
